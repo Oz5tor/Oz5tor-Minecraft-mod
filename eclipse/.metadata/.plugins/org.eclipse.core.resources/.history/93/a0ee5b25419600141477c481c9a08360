@@ -1,0 +1,10 @@
+package com.oz5tor.main;
+import com.oz5tor.lib.RefStrings;
+
+import cpw.mods.fml.common.Mod;
+
+
+@Mod (modid = RefStrings.MODID , name = RefStrings.NAME, version = RefStrings.VERSION,)
+public class MainRegistry {
+
+}

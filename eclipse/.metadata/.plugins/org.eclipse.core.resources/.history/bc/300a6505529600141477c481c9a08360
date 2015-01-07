@@ -1,0 +1,23 @@
+package com.oz5tor.items;
+import com.oz5tor.lib.RefStrings;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class ObsidianStick {
+	
+	public static void mainRegistry(){
+		initializeItem();
+		registerItem();
+	}
+	public static Item oStick;
+	
+	public static void initializeItem(){
+		oStick = new Item().setUnlocalizedName("oStick").setCreativeTab(CreativeTabs.tabMisc).setTextureName(RefStrings.MODID + "Ostick");
+		
+	}
+	public static void registerItem (){
+		GameRegistry.registerItem(oStick, oStick.getUnlocalizedName());
+	}
+}

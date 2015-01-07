@@ -1,0 +1,18 @@
+package com.oz5tor.items;
+import net.minecraft.item.Item;
+
+public class ObsidianStick {
+	
+	public static void mainRegistry(){
+		initializeItem();
+		registerItem();
+	}
+	public static Item oStick;
+	
+	public static void initializeItem(){
+		oStick = new Item();
+	}
+	public static void registerItem (){
+		
+	}
+}

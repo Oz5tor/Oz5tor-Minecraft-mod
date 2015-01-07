@@ -1,0 +1,7 @@
+package com.oz5tor.main;
+
+
+@Mod (modid = , name = , version = ,)
+public class MainRegistry {
+
+}

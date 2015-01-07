@@ -1,0 +1,8 @@
+package com.oz5tor.main;
+import com.oz5tor.lib.RefStrings;
+
+
+@Mod (modid = RefStrings.MODID, name = RefStrings.NAME, version = RefStrings.VERSION,)
+public class MainRegistry {
+
+}

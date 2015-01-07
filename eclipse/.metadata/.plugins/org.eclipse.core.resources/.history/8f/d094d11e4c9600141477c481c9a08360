@@ -1,0 +1,7 @@
+package com.oz5tor.blocks;
+
+import net.minecraft.block.Block;
+
+public class ComStone extends Block {
+
+}

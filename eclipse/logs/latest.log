@@ -1,0 +1,143 @@
+[11:17:59] [main/INFO]: Extra: []
+[11:17:59] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Topper/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[11:17:59] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:17:59] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:17:59] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[11:17:59] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[11:17:59] [main/INFO]: Forge Mod Loader version 7.10.85.1230 for Minecraft 1.7.10 loading
+[11:17:59] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_25
+[11:17:59] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[11:17:59] [main/INFO]: Calling tweak class net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[11:17:59] [main/INFO]: Injecting location in coremod cpw.mods.fml.relauncher.FMLCorePlugin
+[11:17:59] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[11:17:59] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:17:59] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[11:17:59] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:17:59] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:17:59] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:17:59] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[11:18:02] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[11:18:02] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:18:02] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[11:18:02] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[11:18:02] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[11:18:02] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[11:18:04] [main/INFO]: Setting user: Player975
+[11:18:05] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:18:06] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[11:18:06] [Client thread/INFO]: MinecraftForge v10.13.2.1230 Initialized
+[11:18:06] [Client thread/INFO]: Replaced 182 ore recipies
+[11:18:06] [Client thread/INFO]: Completed early MinecraftForge initialization
+[11:18:06] [Client thread/INFO]: Searching C:\Users\Topper\Desktop\minecraft mod\eclipse\mods for mods
+[11:18:09] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[11:18:10] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, oz5tortest] at CLIENT
+[11:18:10] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, oz5tortest] at SERVER
+[11:18:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Oz5tor's Test Mod
+[11:18:10] [Client thread/INFO]: Processing ObjectHolder annotations
+[11:18:10] [Client thread/INFO]: Found 341 ObjectHolder annotations
+[11:18:10] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[11:18:10] [Client thread/INFO]: Applying holder lookups
+[11:18:10] [Client thread/INFO]: Holder lookups applied
+[11:18:10] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[11:18:10] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[11:18:10] [Thread-6/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[11:18:10] [Thread-6/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:18:10] [Thread-6/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[11:18:11] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[11:18:11] [Sound Library Loader/INFO]: Sound engine started
+[11:18:13] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:18:13] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:18:13] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[11:18:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Oz5tor's Test Mod
+[11:18:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:18:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:18:14] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[11:18:14] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[11:18:14] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[11:18:14] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[11:18:14] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[11:18:14] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[11:18:14] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[11:18:14] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:18:14] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[11:18:15] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[11:18:15] [Sound Library Loader/INFO]: Sound engine started
+[11:18:19] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:18:19] [Server thread/INFO]: Generating keypair
+[11:18:19] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[11:18:19] [Server thread/INFO]: Applying holder lookups
+[11:18:19] [Server thread/INFO]: Holder lookups applied
+[11:18:19] [Server thread/INFO]: Loading dimension 0 (oz5tor mod test world) (net.minecraft.server.integrated.IntegratedServer@4227b511)
+[11:18:19] [Server thread/INFO]: Loading dimension 1 (oz5tor mod test world) (net.minecraft.server.integrated.IntegratedServer@4227b511)
+[11:18:19] [Server thread/INFO]: Loading dimension -1 (oz5tor mod test world) (net.minecraft.server.integrated.IntegratedServer@4227b511)
+[11:18:19] [Server thread/INFO]: Preparing start region for level 0
+[11:18:20] [Server thread/INFO]: Changing view distance to 12, from 10
+[11:18:21] [Netty Client IO #0/INFO]: Server protocol version 1
+[11:18:21] [Netty IO #1/INFO]: Client protocol version 1
+[11:18:21] [Netty IO #1/INFO]: Client attempting to join with 4 mods : oz5tortest@0.0.1,FML@7.10.85.1230,Forge@10.13.2.1230,mcp@9.05
+[11:18:21] [Netty IO #1/INFO]: Attempting connection with missing mods [] at CLIENT
+[11:18:21] [Netty Client IO #0/INFO]: Attempting connection with missing mods [] at SERVER
+[11:18:21] [Server thread/INFO]: [Server thread] Server side modded connection established
+[11:18:21] [Client thread/INFO]: [Client thread] Client side modded connection established
+[11:18:21] [Server thread/INFO]: Player975[local:E:ee5f1f56] logged in with entity id 313 at (-583.4700226102703, 4.0, -369.6505638112301)
+[11:18:21] [Server thread/INFO]: Player975 joined the game
+[11:18:22] [Server thread/INFO]: Saving and pausing game...
+[11:18:22] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Overworld
+[11:18:22] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Nether
+[11:18:22] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/The End
+[11:18:26] [Server thread/INFO]: Player975 has just earned the achievement [Taking Inventory]
+[11:18:26] [Client thread/INFO]: [CHAT] Player975 has just earned the achievement [Taking Inventory]
+[11:19:11] [Server thread/INFO]: Saving and pausing game...
+[11:19:11] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Overworld
+[11:19:11] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Nether
+[11:19:11] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/The End
+[11:19:13] [Server thread/INFO]: Stopping server
+[11:19:13] [Server thread/INFO]: Saving players
+[11:19:13] [Server thread/INFO]: Saving worlds
+[11:19:13] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Overworld
+[11:19:13] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Nether
+[11:19:13] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/The End
+[11:19:13] [Server thread/INFO]: Unloading dimension 0
+[11:19:13] [Server thread/INFO]: Unloading dimension -1
+[11:19:13] [Server thread/INFO]: Unloading dimension 1
+[11:19:13] [Server thread/INFO]: Applying holder lookups
+[11:19:13] [Server thread/INFO]: Holder lookups applied
+[12:13:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:13:07] [Server thread/INFO]: Generating keypair
+[12:13:07] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[12:13:07] [Server thread/INFO]: Applying holder lookups
+[12:13:07] [Server thread/INFO]: Holder lookups applied
+[12:13:07] [Server thread/INFO]: Loading dimension 0 (oz5tor mod test world) (net.minecraft.server.integrated.IntegratedServer@689a071c)
+[12:13:07] [Server thread/INFO]: Loading dimension 1 (oz5tor mod test world) (net.minecraft.server.integrated.IntegratedServer@689a071c)
+[12:13:07] [Server thread/INFO]: Loading dimension -1 (oz5tor mod test world) (net.minecraft.server.integrated.IntegratedServer@689a071c)
+[12:13:07] [Server thread/INFO]: Preparing start region for level 0
+[12:13:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:13:07] [Netty Client IO #1/INFO]: Server protocol version 1
+[12:13:07] [Netty IO #3/INFO]: Client protocol version 1
+[12:13:07] [Netty IO #3/INFO]: Client attempting to join with 4 mods : oz5tortest@0.0.1,FML@7.10.85.1230,Forge@10.13.2.1230,mcp@9.05
+[12:13:07] [Netty IO #3/INFO]: Attempting connection with missing mods [] at CLIENT
+[12:13:07] [Netty Client IO #1/INFO]: Attempting connection with missing mods [] at SERVER
+[12:13:07] [Server thread/INFO]: [Server thread] Server side modded connection established
+[12:13:07] [Server thread/INFO]: Player975[local:E:4ccc5d63] logged in with entity id 288867 at (-584.2547276986684, 4.0, -370.92646499374274)
+[12:13:07] [Server thread/INFO]: Player975 joined the game
+[12:13:07] [Client thread/INFO]: [Client thread] Client side modded connection established
+[12:13:38] [Server thread/INFO]: Saving and pausing game...
+[12:13:38] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Overworld
+[12:13:38] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Nether
+[12:13:39] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/The End
+[12:13:39] [Server thread/INFO]: Stopping server
+[12:13:39] [Server thread/INFO]: Saving players
+[12:13:39] [Server thread/INFO]: Saving worlds
+[12:13:39] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Overworld
+[12:13:39] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/Nether
+[12:13:39] [Server thread/INFO]: Saving chunks for level 'oz5tor mod test world'/The End
+[12:13:39] [Server thread/INFO]: Unloading dimension 0
+[12:13:39] [Server thread/INFO]: Unloading dimension -1
+[12:13:39] [Server thread/INFO]: Unloading dimension 1
+[12:13:39] [Server thread/INFO]: Applying holder lookups
+[12:13:39] [Server thread/INFO]: Holder lookups applied
+[12:13:41] [Client thread/INFO]: Stopping!
+[12:13:41] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[12:13:41] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[12:13:41] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[12:13:41] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
