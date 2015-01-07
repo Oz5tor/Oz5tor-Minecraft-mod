@@ -1,0 +1,19 @@
+package com.oz5tor.world;
+
+import cpw.mods.fml.common.IWorldGenerator;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class Mworld {
+
+	public static void mainRegistry(){
+		initialiseWordGen();
+	}
+	public static void initialiseWordGen(){
+		registerWordGen(new Oz5torOre(), 1);		
+	}
+	
+	public static void registerWordGen(IWorldGenerator worldGenClass, int WeightedProbability){
+		GameRegistry.registerWorldGenerator(worldGenClass, WeightedProbability);
+	}
+	
+}
