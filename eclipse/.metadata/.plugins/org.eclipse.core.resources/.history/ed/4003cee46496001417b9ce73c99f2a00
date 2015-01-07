@@ -1,0 +1,26 @@
+package com.oz5tor.main;
+
+import com.oz5tor.blocks.Mblocks;
+import com.oz5tor.items.Mitems;
+
+import net.minecraft.init.Blocks;
+import net.minecraft.item.ItemStack;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class craftingmaneger {
+	public static void mainRegistry() {
+		addCraftingRec();
+		addSmeltingRec();
+	}
+	
+	public static void addCraftingRec() {
+		//Shaped
+		GameRegistry.addRecipe(new ItemStack(Mblocks.ComStone,1), new Object[]{"XXX","XXX","XXX", 'X', Blocks.stone});
+		//Shapless
+		GameRegistry.addShapelessRecipe(new ItemStack(Mitems.oStick,1), new Object[]{" X "," X ", 'X', Blocks.obsidian});
+	}
+	
+	public static void addSmeltingRec() {
+		GameRegistry.addSmelting(Blocks.coal_block, new ItemStack(Blocks.obsidian, 1), 20.0f);
+	}
+}

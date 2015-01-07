@@ -1,0 +1,15 @@
+package com.oz5tor.main;
+
+public class craftingmaneger {
+	public static void mainRegistry() {
+		
+	}
+	
+	public static void addCraftingRec() {
+		
+	}
+	
+	public static void addSmeltingRec() {
+		
+	}
+}
